@@ -2,6 +2,7 @@
     Store equipment data, providing it for other modules
 */
 
+
 const equipment = [
     {
         id: 1,
