@@ -1,0 +1,77 @@
+.productEmployee{
+    color: whitesmoke;
+    border: 5px solid black;
+    width: 40%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding 50px;
+    background-color: rgb(134, 32, 32);
+}
+.body{
+    color: whitesmoke;
+    border: 5px solid black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding 50px;
+    width: 40%;
+    background-color: rgb(53, 136, 53);
+}
+body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.body ul {
+    color: black;
+    list-style-type: none;
+}
+
+.productEmployee ul {
+    color: black;
+    list-style-type: none;
+}
+
+.body h3 {
+    text-align: center;
+    color: whitesmoke;
+}
+
+.body h4 {
+    text-align: center;
+    color: black;
+}
+
+
+.productEmployee h4 {
+    text-align: center;
+    color: black;
+}
+
+.productEmployee h3 {
+    text-align: center;
+}
+
+.equipment {
+    margin: 70px;
+}
+
+.employee {
+    margin: 70px;
+}
+
+.product {
+    margin: 70px;
+}
+
+#java__footer {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(34, 34, 34);
+    color: whitesmoke;
+    width: 90%;
+    font-size: large;
+}
+body {
+    background-color:rgb(218, 216, 216);
+}
